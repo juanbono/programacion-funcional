@@ -33,22 +33,22 @@ Asimismo, les pido que en la medida que vayan eligiendo de cual track les gustar
 Participante | Track(s) | Proyecto
 --- | --- | ---
 [Martin Valdes de Leon (mentor)](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/martin_valdes_de_leon.md) | **P** **A** | -
-[Agustin Polo](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/claudio_zurita.md) | **P** **A** | -
+[Agustin Polo](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/agustin_polo.md) | **P** **A** | -
 [Angel Java Lopez](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/ajlopez_aprendiz.md) | **P** **A** | -
-[Christian Gill](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/christian_gill_estudiante.md) | **A** | -
+Christian Gill | **A** | -
 [Claudio Zurita](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/claudio_zurita.md) | **P** **A** | -
-[Consu Usnoc](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/MISSING.md) | **P** **A** | -
-[Emiliano Ferreyra](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/MISSING.md) | **P** **A** | -
-[Ernesto Venecio](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/MISSING.md) | **P** **A** | -
-[Fede Cano](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/MISSING.md) | **P** **A** | -
-[Gabriel Miranda](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/MISSING.md) | **P** **A** | -
+Consu Usnoc | **P** **A** | -
+Emiliano Ferreyra | **P** **A** | -
+Ernesto Venecio | **P** **A** | -
+Fede Cano | **P** **A** | -
+Gabriel Miranda | **P** **A** | -
 [Gustavo Olmedo](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/gustavo_olmedo.md) | **P** **A** | -
 [Juan Bono](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/juanbono.md) | **P** **A** | -
 [Karen Serfati](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/keyserfati.md) | **P** **A** | -
-[Laura Ramos](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/MISSING.md) | **P** **A** | -
-[Lisandro Sebrie](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/MISSING.md) | **P** **A** | -
+Laura Ramos | **P** **A** | -
+Lisandro Sebrie | **P** **A** | -
 [Lorenzo Palmes](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/lpalmes.md) | **P** **A** | -
-[Luis Ventocilla](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/MISSING.md) | **P** **A** | -
+Luis Ventocilla | **P** **A** | -
 [Mario Ojeda](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/mario_ojeda.md) | **P** **A** | -
 [Mauro Carrero](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/mauro_carrero.md) | **P** **A** | -
 [Pablo Cazes](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/pablo_cazes.md) | **P** **A** | -
